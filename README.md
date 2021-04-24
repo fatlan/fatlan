@@ -8,7 +8,7 @@ Fatih ASLAN - Linux/DevOps Administrator
 
 ### İletişim 📫
 
-Beni Blog, Linkedin, Github, Medium and Dev.to takip edebilir ve iletişime geçebilirsiniz!
+Beni Blog Linkedin Github Medium Dev'den takip edebilir ve iletişime geçebilirsiniz!
 
 [![Blog Badge](https://img.shields.io/badge/fatihaslan-Go%20to%20blog-blue?style=for-the-badge&logo=linux)](https://www.fatlan.com)
 [![Linkedin Badge](https://img.shields.io/badge/fatihaslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fafatihaslan)
