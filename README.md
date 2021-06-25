@@ -2,9 +2,9 @@
 
 Fatih ASLAN - Linux/DevOps Administrator - 🐧 🌥 🐳 ☸️
 
-![Profile Views](https://komarev.com/ghpvc/?username=fatlan)
+<!--- ![Profile Views](https://komarev.com/ghpvc/?username=fatlan)
 
-![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatlan&show_icons=true)
+![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatlan&show_icons=true) ---> 
 
 ### İletişim 📫
 
