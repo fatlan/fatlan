@@ -10,7 +10,7 @@ Fatih ASLAN - Linux/DevOps Administrator - 🐧 🌥 🐳 ☸️
 
 Beni Blog Linkedin Github Medium Dev'den takip edebilir ve iletişime geçebilirsiniz!
 
-[![Blog Badge](https://img.shields.io/badge/fatlan.com-follow%20on%20fatlan.com-blue?style=for-the-badge&logo=linux)](https://www.fatlan.com)
+[![Blog Badge](https://img.shields.io/badge/fatlan.com-follow%20on%20blog-blue?style=for-the-badge&logo=linux)](https://www.fatlan.com)
 [![Linkedin Badge](https://img.shields.io/badge/fatihaslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fafatihaslan) <br>
 [![Medium Badge](https://img.shields.io/badge/fatihaslan-follow%20on%20medium-blue?style=for-the-badge&logo=medium)](https://medium.com/@aslanfatih)
 [![Dev.to Badge](https://img.shields.io/badge/fatihaslan-follow%20on%20dev.to-blue?style=for-the-badge&logo=dev.to)](https://dev.to/aslanfatih)
