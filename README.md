@@ -1,4 +1,4 @@
-### Merhaba. 👋
+### Merhaba 👋
 
 Fatih ASLAN - Linux/DevOps Administrator - 🐧 🌥 🐳 ☸️
 
