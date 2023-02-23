@@ -6,6 +6,10 @@ Fatih ASLAN - Linux/DevOps Administrator - 🐧 🌥 🐳 ☸️
 
 ![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatlan&show_icons=true) ---> 
 
+### Verdiğim Eğitimler
+
+✨ [Eğitim içerikleri](https://www.fatlan.com/egitim/)
+
 ### İletişim 📫
 
 Beni Blog Linkedin Github Medium Dev'den takip edebilir ve iletişime geçebilirsiniz!
