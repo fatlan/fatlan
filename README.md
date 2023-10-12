@@ -1,6 +1,6 @@
 ### Merhaba 👋
 
-Fatih ASLAN - DevOps|Linux Team Lead & Instructor - 🐧 🌥 🐳 ☸️
+Fatih ASLAN - DevOps|Linux Engineer & Instructor - 🐧 🌥 🐳 ☸️
 
 <!--- ![Profile Views](https://komarev.com/ghpvc/?username=fatlan)
 
